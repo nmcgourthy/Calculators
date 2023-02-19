@@ -1,0 +1,8 @@
+Course: Probability & Statistics for Engineers
+
+Permuation formula where n is the total number of elements and r is the size of the subsets.
+
+combinations : n!/(r!(n-r)!)
+  -- Order does not matter , example a group of five runners compete in a race and the top 3 fastest runners move on. 
+permutations : n!/(n-r)!
+  -- Order matters , example a group of five runners compete in a race and first place gets gold, second place gets silver, 3rd place gets bronze.
